@@ -1,7 +1,8 @@
 //
 //  LEPhotoAlbum.m
 //  LEPhotoAlbum
-//
+//  GitHub: https://github.com/ChordLeafe/LEImagePickerController.git
+//  博客:   http://www.jianshu.com/p/be40c92dd10f
 //  Created by jianxin.li on 16/2/20.
 //  Copyright © 2016年 m6go.com. All rights reserved.
 //  GitHub
