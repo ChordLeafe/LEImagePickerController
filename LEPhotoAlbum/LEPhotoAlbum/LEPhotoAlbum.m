@@ -4,6 +4,7 @@
 //
 //  Created by jianxin.li on 16/2/20.
 //  Copyright © 2016年 m6go.com. All rights reserved.
+//  GitHub
 //
 
 #import "LEPhotoAlbum.h"
